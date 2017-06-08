@@ -77,6 +77,9 @@ class UsersController < ApplicationController
   def login_form
   end
 
+  def likes
+  end
+
   private
 
   def ensure_correct_user
