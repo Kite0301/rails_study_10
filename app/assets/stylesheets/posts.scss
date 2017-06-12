@@ -67,25 +67,18 @@
   margin-bottom: 10px;
 }
 
-.posts-show-item .fa {
-  font-size: 16px;
-  margin-right: 3px;
-}
-
-// Likeボタン（演習で書かせてもいいかも）
 .like-btn {
-  // padding: 0;
-  // background-color: white;
   color: #8899a6;
-  // font-size: 16px;
-  // margin-bottom: 0;
-  // outline-width: 0;
 }
 
 .like-btn-unlike {
   color: #ff2581;
 }
-// ここまで
+
+.posts-show-item .fa {
+  font-size: 16px;
+  margin-right: 3px;
+}
 
 .post-menus {
   float: right;
